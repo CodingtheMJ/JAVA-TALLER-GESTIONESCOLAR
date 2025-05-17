@@ -1,7 +1,9 @@
 ✧ ˖ ꒰ ੭´ — — — — — — Descripción del Proyecto — — — — — — ✰⁺ಿೖ୭
+
 Este repositorio contiene un proyecto desarrollado en Java que simula un sistema de gestión escolar. A través de este proyecto, he reforzado mis conocimientos en programación orientada a objetos (POO) y he aplicado conceptos fundamentales en el desarrollo de aplicaciones Java. Este proyecto me ha permitido consolidar mis habilidades en Java y comprender mejor cómo estructurar aplicaciones orientadas a objetos que reflejen escenarios del mundo real.
 
 ︽︽︽︽︽︽ Habilidades Puestas en Práctica ︽︽︽︽︽︽︽
+
 ° Programación Orientada a Objetos (POO): Implementación de clases, objetos, herencia, encapsulamiento y polimorfismo para modelar entidades como estudiantes, profesores y cursos.
 
 ° Estructura de Proyecto en Java: Organización del código fuente siguiendo las convenciones estándar de Java, utilizando paquetes (package) y estructuras de directorios adecuadas.
